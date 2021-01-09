@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nvo-nasa-akcija/static/css/main.2d27ac43.chunk.css",
+    "main.js": "/nvo-nasa-akcija/static/js/main.1ce3d3dd.chunk.js",
+    "main.js.map": "/nvo-nasa-akcija/static/js/main.1ce3d3dd.chunk.js.map",
+    "runtime-main.js": "/nvo-nasa-akcija/static/js/runtime-main.eb663023.js",
+    "runtime-main.js.map": "/nvo-nasa-akcija/static/js/runtime-main.eb663023.js.map",
+    "static/js/2.55bbe666.chunk.js": "/nvo-nasa-akcija/static/js/2.55bbe666.chunk.js",
+    "static/js/2.55bbe666.chunk.js.map": "/nvo-nasa-akcija/static/js/2.55bbe666.chunk.js.map",
+    "index.html": "/nvo-nasa-akcija/index.html",
+    "static/css/main.2d27ac43.chunk.css.map": "/nvo-nasa-akcija/static/css/main.2d27ac43.chunk.css.map",
+    "static/js/2.55bbe666.chunk.js.LICENSE.txt": "/nvo-nasa-akcija/static/js/2.55bbe666.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb663023.js",
+    "static/js/2.55bbe666.chunk.js",
+    "static/css/main.2d27ac43.chunk.css",
+    "static/js/main.1ce3d3dd.chunk.js"
+  ]
+}
