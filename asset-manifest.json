@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/nvo-nasa-akcija/static/css/main.2d27ac43.chunk.css",
-    "main.js": "/nvo-nasa-akcija/static/js/main.4fd09a0b.chunk.js",
-    "main.js.map": "/nvo-nasa-akcija/static/js/main.4fd09a0b.chunk.js.map",
+    "main.css": "/nvo-nasa-akcija/static/css/main.8bc45545.chunk.css",
+    "main.js": "/nvo-nasa-akcija/static/js/main.2785040b.chunk.js",
+    "main.js.map": "/nvo-nasa-akcija/static/js/main.2785040b.chunk.js.map",
     "runtime-main.js": "/nvo-nasa-akcija/static/js/runtime-main.eb663023.js",
     "runtime-main.js.map": "/nvo-nasa-akcija/static/js/runtime-main.eb663023.js.map",
-    "static/js/2.55bbe666.chunk.js": "/nvo-nasa-akcija/static/js/2.55bbe666.chunk.js",
-    "static/js/2.55bbe666.chunk.js.map": "/nvo-nasa-akcija/static/js/2.55bbe666.chunk.js.map",
+    "static/css/2.637f5471.chunk.css": "/nvo-nasa-akcija/static/css/2.637f5471.chunk.css",
+    "static/js/2.80355b1e.chunk.js": "/nvo-nasa-akcija/static/js/2.80355b1e.chunk.js",
+    "static/js/2.80355b1e.chunk.js.map": "/nvo-nasa-akcija/static/js/2.80355b1e.chunk.js.map",
     "index.html": "/nvo-nasa-akcija/index.html",
-    "static/css/main.2d27ac43.chunk.css.map": "/nvo-nasa-akcija/static/css/main.2d27ac43.chunk.css.map",
-    "static/js/2.55bbe666.chunk.js.LICENSE.txt": "/nvo-nasa-akcija/static/js/2.55bbe666.chunk.js.LICENSE.txt"
+    "static/css/2.637f5471.chunk.css.map": "/nvo-nasa-akcija/static/css/2.637f5471.chunk.css.map",
+    "static/css/main.8bc45545.chunk.css.map": "/nvo-nasa-akcija/static/css/main.8bc45545.chunk.css.map",
+    "static/js/2.80355b1e.chunk.js.LICENSE.txt": "/nvo-nasa-akcija/static/js/2.80355b1e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eb663023.js",
-    "static/js/2.55bbe666.chunk.js",
-    "static/css/main.2d27ac43.chunk.css",
-    "static/js/main.4fd09a0b.chunk.js"
+    "static/css/2.637f5471.chunk.css",
+    "static/js/2.80355b1e.chunk.js",
+    "static/css/main.8bc45545.chunk.css",
+    "static/js/main.2785040b.chunk.js"
   ]
 }
